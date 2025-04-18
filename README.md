@@ -1,7 +1,7 @@
 # FreeSurfaceSlope
 Data repository for the Free-Surface Slope study
 
-Paper title: Back to Basics: On the Proper Determinaton of Free-Surface Slope (FSS) in Gradually-Varied Open Channel Flows
+Paper title: Back to Basics: On the Proper Determinaton of Free-Surface Slope (FSS) in Gradually Varied Open Channel Flows
 
 Authors: Emma House, Kyeongdong Kim, Marian Muste, Ehab Meselhe, and Ibrahim Demir
 
