@@ -9,5 +9,6 @@ Included:
 - Slope_analysis_data.xlsx: Excel sheet with the output, validation, and convergence of the HEC-RAS model, including data for Figures 4 and 8.
 - Concept_Fig_FSS.xlsx: Excel sheet with the data for the numerically-simulated conceptual Figures 5 and 6.
 - Slope_Sampling_Fig_dx.xlsx: Sensitivity analysis of numerically sampling FSS in space and time, including data for Figures 7, 12, 13, and 14, and Table 1.
+- FSS_paper_Experimental data.xlsx: Experimental data from river stations for creating the experimental figures.
 
 Please contact Emma House (ehouse@tulane.edu) with any questions. Thank you.
